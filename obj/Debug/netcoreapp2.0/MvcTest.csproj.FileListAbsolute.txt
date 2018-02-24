@@ -1,0 +1,10 @@
+/home/ice/Documents/dev/MvcTest/bin/Debug/netcoreapp2.0/MvcTest.deps.json
+/home/ice/Documents/dev/MvcTest/bin/Debug/netcoreapp2.0/MvcTest.runtimeconfig.json
+/home/ice/Documents/dev/MvcTest/bin/Debug/netcoreapp2.0/MvcTest.runtimeconfig.dev.json
+/home/ice/Documents/dev/MvcTest/bin/Debug/netcoreapp2.0/MvcTest.dll
+/home/ice/Documents/dev/MvcTest/bin/Debug/netcoreapp2.0/MvcTest.pdb
+/home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.csproj.CoreCompileInputs.cache
+/home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.AssemblyInfoInputs.cache
+/home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.AssemblyInfo.cs
+/home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.dll
+/home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.pdb
