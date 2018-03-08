@@ -8,3 +8,14 @@
 /home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.AssemblyInfo.cs
 /home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.dll
 /home/ice/Documents/dev/MvcTest/obj/Debug/netcoreapp2.0/MvcTest.pdb
+/Users/matt/Projects/rogue-whale/AsteroidList.git/bin/Debug/netcoreapp2.0/MvcTest.deps.json
+/Users/matt/Projects/rogue-whale/AsteroidList.git/bin/Debug/netcoreapp2.0/MvcTest.runtimeconfig.json
+/Users/matt/Projects/rogue-whale/AsteroidList.git/bin/Debug/netcoreapp2.0/MvcTest.runtimeconfig.dev.json
+/Users/matt/Projects/rogue-whale/AsteroidList.git/bin/Debug/netcoreapp2.0/MvcTest.dll
+/Users/matt/Projects/rogue-whale/AsteroidList.git/bin/Debug/netcoreapp2.0/MvcTest.pdb
+/Users/matt/Projects/rogue-whale/AsteroidList.git/obj/Debug/netcoreapp2.0/MvcTest.csprojResolveAssemblyReference.cache
+/Users/matt/Projects/rogue-whale/AsteroidList.git/obj/Debug/netcoreapp2.0/MvcTest.csproj.CoreCompileInputs.cache
+/Users/matt/Projects/rogue-whale/AsteroidList.git/obj/Debug/netcoreapp2.0/MvcTest.AssemblyInfoInputs.cache
+/Users/matt/Projects/rogue-whale/AsteroidList.git/obj/Debug/netcoreapp2.0/MvcTest.AssemblyInfo.cs
+/Users/matt/Projects/rogue-whale/AsteroidList.git/obj/Debug/netcoreapp2.0/MvcTest.dll
+/Users/matt/Projects/rogue-whale/AsteroidList.git/obj/Debug/netcoreapp2.0/MvcTest.pdb
